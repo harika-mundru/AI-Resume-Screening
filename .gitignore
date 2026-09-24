@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Exports (generated at runtime, not part of the source)
+exports/*
+!exports/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/

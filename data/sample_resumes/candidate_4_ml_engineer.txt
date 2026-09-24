@@ -1,0 +1,25 @@
+Karthik Iyer
+Machine Learning Engineer
+
+Email: karthik.iyer@gmail.com
+Phone: +91 9988776655
+
+SUMMARY
+Machine Learning Engineer with 3 years of experience building and
+deploying ML models using Python, Scikit-learn and TensorFlow. Also
+comfortable with SQL and basic REST API development using Flask.
+
+EDUCATION
+M.Tech in Data Science, National Institute of Technology, 2021
+
+SKILLS
+Python, Scikit-learn, TensorFlow, Pandas, NumPy, SQL, Flask, Machine Learning, Deep Learning, Git
+
+EXPERIENCE
+Machine Learning Engineer, DataWorks AI (2021 - Present), 3 years
+- Built classification and regression models using Scikit-learn
+- Trained deep learning models using TensorFlow
+- Deployed models behind a Flask REST API
+
+CERTIFICATIONS
+Machine Learning Certification, Stanford Online, 2020

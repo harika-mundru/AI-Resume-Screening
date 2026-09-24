@@ -1,0 +1,25 @@
+Sneha Verma
+Backend Developer
+
+Email: sneha.verma@gmail.com
+Phone: +91 9090909090
+
+SUMMARY
+Backend Developer with 2 years of experience building server-side
+applications using Python and Django. Experience working with SQL
+databases and Docker for containerization.
+
+EDUCATION
+B.Tech in Computer Science, PQR Institute of Technology, 2022
+
+SKILLS
+Python, Django, SQL, PostgreSQL, Docker, Git, REST API, Linux
+
+EXPERIENCE
+Backend Developer, CloudNet Systems (2022 - Present), 2 years
+- Developed backend services using Django and REST API
+- Managed PostgreSQL databases for production applications
+- Used Docker to containerize backend services
+
+CERTIFICATIONS
+Backend Development with Django, Udemy, 2021

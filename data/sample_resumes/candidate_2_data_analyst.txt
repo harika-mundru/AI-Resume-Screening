@@ -1,0 +1,25 @@
+Rahul Mehta
+Data Analyst
+
+Email: rahul.mehta@gmail.com
+Phone: 9876500011
+
+SUMMARY
+Data Analyst with 1 year of experience working with Excel, SQL and
+Python for reporting and data cleaning. Some exposure to Power BI
+dashboards and Pandas for data analysis.
+
+EDUCATION
+B.Tech in Information Technology, XYZ College, 2023
+
+SKILLS
+Python, SQL, Excel, Power BI, Pandas, NumPy, Data Analytics
+
+EXPERIENCE
+Data Analyst Intern, Insight Analytics Pvt Ltd (2023 - Present), 1 year
+- Built Power BI dashboards for the sales team
+- Wrote SQL queries to clean and aggregate data
+- Used Pandas for data preprocessing tasks
+
+CERTIFICATIONS
+Data Analytics Certification, Coursera, 2022

@@ -1,0 +1,25 @@
+Ananya Rao
+Python Developer
+
+Email: ananya.rao@gmail.com
+Phone: +91 9876543210
+
+SUMMARY
+Python Developer with 2 years of experience building web applications
+using Flask and Django. Comfortable working with SQL databases and Git
+based workflows. Familiar with basic Machine Learning concepts.
+
+EDUCATION
+B.Tech in Computer Science, ABC University, 2022
+
+SKILLS
+Python, Flask, Django, SQL, MySQL, Git, REST API, Machine Learning, Linux
+
+EXPERIENCE
+Software Developer, Bright Software Solutions (2022 - Present), 2 years
+- Built and maintained REST APIs using Flask and Django
+- Worked with MySQL databases for storing application data
+- Used Git for version control across the team
+
+CERTIFICATIONS
+Certified Python Programmer - Online Course Certification, 2021

@@ -1,0 +1,25 @@
+Priya Sharma
+Frontend Developer
+
+Email: priya.sharma@gmail.com
+Phone: +91 9123456780
+
+SUMMARY
+Frontend Developer with 1 year of experience building responsive web
+interfaces using React and modern JavaScript. Basic familiarity with
+Git and REST API integration.
+
+EDUCATION
+B.Sc in Computer Applications, City College, 2023
+
+SKILLS
+HTML, CSS, JavaScript, React, Git, REST API
+
+EXPERIENCE
+Frontend Developer, PixelCraft Studio (2023 - Present), 1 year
+- Built UI components using React and CSS
+- Integrated REST APIs into the frontend application
+- Collaborated with backend developers using Git
+
+CERTIFICATIONS
+Frontend Web Development Certificate, Udemy, 2022

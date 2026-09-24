@@ -1,0 +1,11 @@
+Job Title: Python Developer
+
+Job Description:
+We are looking for a Python Developer with strong knowledge of Python,
+Flask, Django, REST APIs, SQL, Git and Machine Learning. The candidate
+should be comfortable working with relational databases and version
+control systems, and should be able to build and maintain backend
+services and APIs.
+
+Required Skills:
+Python, Flask, Django, SQL, REST API, Git, Machine Learning
